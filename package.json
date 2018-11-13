@@ -1,0 +1,27 @@
+{
+  "name": "watson-discovery-trending-industry-news",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IBM/watson-discovery-trending-industry-news.git"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "bootstrap": "cp env.sample .env",
+    "test -u": "jest -u",
+    "test": "jest",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "watson-developer-cloud": "^3.11.1"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "devDependencies": {
+  }
+}

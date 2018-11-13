@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Virtual Studio code
+.vscode/
+
+# dotenv environment variables file
+.env
+
+# Mac files
+.DS_Store
