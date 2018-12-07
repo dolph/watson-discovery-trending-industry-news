@@ -1,6 +1,8 @@
-<p>Is this your number? {{term}}</p>
+{{!-- <p>Is this your number? {{term}}</p> --}}
 <ul>
 {{#each results}}
-  <li>{{ this }}</li>
+  <li>{{this.url}}
+    <ul><li>{{this.pub_date}}</li></ul>
+  </li>
 {{/each}}
 </ul>

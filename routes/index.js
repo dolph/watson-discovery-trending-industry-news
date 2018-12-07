@@ -11,7 +11,7 @@ var discovery = new DiscoveryV1({
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Trending News' });
 });
 
 router.post('/query', function(req, res, next){
@@ -31,11 +31,10 @@ router.post('/query', function(req, res, next){
         results = response;
       }
       var jsonList = results.results.map(function(obj){
-        return JSON.stringify(obj);
+        return {"url" : obj.url, "pub_date" : obj.publication_date};
       });
       res.render('results', { 
-        title: 'Express',
-        term: term,
+        // term: term,
         results: jsonList
       });
     }

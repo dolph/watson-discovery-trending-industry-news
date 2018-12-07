@@ -1,0 +1,2131 @@
+{
+    "id": "e2lrhP-jhFourNJBJj7yudXBx1glEqr34Qd6Bh-3a5eW_azmLmEK_MaXvSEevXZq",
+    "result_metadata": {
+        "score": 13.753698
+    },
+    "enriched_title": {
+        "entities": [
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "GOOGLE",
+                "relevance": 0.33,
+                "type": "Company",
+                "disambiguation": {
+                    "subtype": [
+                        "AcademicInstitution",
+                        "AwardPresentingOrganization",
+                        "OperatingSystemDeveloper",
+                        "ProgrammingLanguageDeveloper",
+                        "SoftwareDeveloper",
+                        "VentureFundedCompany"
+                    ],
+                    "name": "Google",
+                    "dbpedia_resource": "http://dbpedia.org/resource/Google"
+                }
+            },
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "IBM",
+                "relevance": 0.33,
+                "type": "Company"
+            },
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "BAIDU",
+                "relevance": 0.33,
+                "type": "Company",
+                "disambiguation": {
+                    "subtype": [
+                        "Website",
+                        "VentureFundedCompany"
+                    ],
+                    "name": "Baidu",
+                    "dbpedia_resource": "http://dbpedia.org/resource/Baidu"
+                }
+            },
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0.509228,
+                    "label": "positive"
+                },
+                "text": "PINTEREST",
+                "relevance": 0.33,
+                "type": "Company"
+            }
+        ],
+        "sentiment": {
+            "document": {
+                "score": 0,
+                "label": "neutral"
+            }
+        },
+        "semantic_roles": [],
+        "concepts": [
+            {
+                "text": "Machine learning",
+                "relevance": 0.883316,
+                "dbpedia_resource": "http://dbpedia.org/resource/Machine_learning"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.45781,
+                "label": "/technology and computing/internet technology/web search"
+            },
+            {
+                "score": 0.40814,
+                "label": "/technology and computing/internet technology/social network"
+            },
+            {
+                "score": 0.222919,
+                "label": "/science/computer science/artificial intelligence"
+            }
+        ],
+        "relations": [
+            {
+                "type": "locatedAt",
+                "sentence": "AI/Machine Learning Market 2018: Global Analysis by Key Players - GOOGLE, IBM, BAIDU, PRISMA, IRIS AI, PINTEREST",
+                "score": 0.599625,
+                "arguments": [
+                    {
+                        "text": "IBM",
+                        "location": [
+                            74,
+                            77
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "IBM",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "BAIDU",
+                        "location": [
+                            79,
+                            84
+                        ],
+                        "entities": [
+                            {
+                                "type": "GeopoliticalEntity",
+                                "text": "BAIDU"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "locatedAt",
+                "sentence": "AI/Machine Learning Market 2018: Global Analysis by Key Players - GOOGLE, IBM, BAIDU, PRISMA, IRIS AI, PINTEREST",
+                "score": 0.913179,
+                "arguments": [
+                    {
+                        "text": "BAIDU",
+                        "location": [
+                            79,
+                            84
+                        ],
+                        "entities": [
+                            {
+                                "type": "GeopoliticalEntity",
+                                "text": "BAIDU"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "PRISMA",
+                        "location": [
+                            86,
+                            92
+                        ],
+                        "entities": [
+                            {
+                                "type": "GeopoliticalEntity",
+                                "text": "PRISMA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "keywords": [
+            {
+                "text": "AI/Machine Learning Market",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.917075
+            },
+            {
+                "text": "IRIS AI",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.815673
+            },
+            {
+                "text": "Global Analysis",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.670734
+            },
+            {
+                "text": "Key Players",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.663993
+            },
+            {
+                "text": "PRISMA",
+                "sentiment": {
+                    "score": 0.357592,
+                    "label": "positive"
+                },
+                "relevance": 0.571362
+            },
+            {
+                "text": "GOOGLE",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.455946
+            },
+            {
+                "text": "IBM",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.343278
+            },
+            {
+                "text": "BAIDU",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.342727
+            },
+            {
+                "text": "PINTEREST",
+                "sentiment": {
+                    "score": 0.509228,
+                    "label": "positive"
+                },
+                "relevance": 0.340797
+            }
+        ]
+    },
+    "crawl_date": "2018-10-12T08:02:46Z",
+    "url": "https://industrytoday.co.uk/it/ai-machine-learning-market-2018--global-analysis-by-key-players---google--ibm--baidu--prisma--iris-ai--pinterest/157501/157501",
+    "host": "industrytoday.co.uk",
+    "text": "Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025) 2.2.2 AI/Machine Learning Market Share by Regions (2013-2018) 2.3 Industry Trends 3 Market Share by Key Players 3.1 AI/Machine Learning Market Size by Manufacturers 3.1.1 Global AI/Machine Learning Revenue by Manufacturers (2013-2018) 3.1.2 Global AI/Machine Learning",
+    "country": "GB",
+    "source_type": "mainstream",
+    "language": "en",
+    "publication_date": "2018-10-11T12:39:00Z",
+    "enriched_text": {
+        "entities": [
+            {
+                "count": 4,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "GOOGLE",
+                "relevance": 0.661195,
+                "type": "Company",
+                "disambiguation": {
+                    "subtype": [
+                        "AcademicInstitution",
+                        "AwardPresentingOrganization",
+                        "OperatingSystemDeveloper",
+                        "ProgrammingLanguageDeveloper",
+                        "SoftwareDeveloper",
+                        "VentureFundedCompany"
+                    ],
+                    "name": "Google",
+                    "dbpedia_resource": "http://dbpedia.org/resource/Google"
+                }
+            },
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "PRISMA Revenue",
+                "relevance": 0.614266,
+                "type": "Company"
+            },
+            {
+                "count": 3,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "BAIDU",
+                "relevance": 0.538814,
+                "type": "Company",
+                "disambiguation": {
+                    "subtype": [
+                        "Website",
+                        "VentureFundedCompany"
+                    ],
+                    "name": "Baidu",
+                    "dbpedia_resource": "http://dbpedia.org/resource/Baidu"
+                }
+            },
+            {
+                "count": 3,
+                "sentiment": {
+                    "score": 0.509228,
+                    "label": "positive"
+                },
+                "text": "PINTEREST",
+                "relevance": 0.520134,
+                "type": "Company"
+            },
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "IRIS AI Company",
+                "relevance": 0.518225,
+                "type": "Company"
+            },
+            {
+                "count": 3,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "IBM",
+                "relevance": 0.510535,
+                "type": "Company",
+                "disambiguation": {
+                    "subtype": [
+                        "SoftwareLicense",
+                        "OperatingSystemDeveloper",
+                        "ProcessorManufacturer",
+                        "SoftwareDeveloper",
+                        "CompanyFounder",
+                        "ProgrammingLanguageDesigner",
+                        "ProgrammingLanguageDeveloper"
+                    ],
+                    "name": "IBM",
+                    "dbpedia_resource": "http://dbpedia.org/resource/IBM"
+                }
+            },
+            {
+                "count": 2,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "United States",
+                "relevance": 0.476556,
+                "type": "Location",
+                "disambiguation": {
+                    "subtype": [
+                        "Region",
+                        "AdministrativeDivision",
+                        "GovernmentalJurisdiction",
+                        "FilmEditor",
+                        "Country"
+                    ],
+                    "name": "United States",
+                    "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+                }
+            },
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "Europe",
+                "relevance": 0.389954,
+                "type": "Location",
+                "disambiguation": {
+                    "subtype": [
+                        "MusicalGroup",
+                        "BroadcastArtist",
+                        "FilmMusicContributor",
+                        "Lyricist",
+                        "MusicalArtist",
+                        "RecordProducer",
+                        "Continent"
+                    ],
+                    "name": "Europe",
+                    "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+                }
+            },
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "HHI",
+                "relevance": 0.351577,
+                "type": "Company"
+            },
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "@IndustryToday",
+                "relevance": 0.351577,
+                "type": "TwitterHandle"
+            },
+            {
+                "count": 1,
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "text": "@",
+                "relevance": 0.351577,
+                "type": "TwitterHandle"
+            }
+        ],
+        "sentiment": {
+            "document": {
+                "score": 0.631518,
+                "label": "positive"
+            }
+        },
+        "semantic_roles": [
+            {
+                "subject": {
+                    "text": "us"
+                },
+                "sentence": " Follow us on Twitter @IndustryToday AI/Machine Learning Market 2018This report focuses on the global AI/Machine Learning status, future forecast, growth opportunity, key market and key players.",
+                "object": {
+                    "text": "on Twitter @IndustryToday AI/Machine Learning Market 2018This report",
+                    "keywords": [
+                        {
+                            "text": "Twitter AI/Machine Learning"
+                        },
+                        {
+                            "text": "Market 2018This report"
+                        }
+                    ],
+                    "entities": [
+                        {
+                            "type": "TwitterHandle",
+                            "text": "@IndustryToday"
+                        }
+                    ]
+                },
+                "action": {
+                    "verb": {
+                        "text": "Follow",
+                        "tense": "present"
+                    },
+                    "text": "Follow",
+                    "normalized": "Follow"
+                }
+            }
+        ],
+        "concepts": [
+            {
+                "text": "Marketing",
+                "relevance": 0.953288,
+                "dbpedia_resource": "http://dbpedia.org/resource/Marketing"
+            },
+            {
+                "text": "Herfindahl index",
+                "relevance": 0.544988,
+                "dbpedia_resource": "http://dbpedia.org/resource/Herfindahl_index"
+            },
+            {
+                "text": "Google",
+                "relevance": 0.436941,
+                "dbpedia_resource": "http://dbpedia.org/resource/Google"
+            },
+            {
+                "text": "Developmental psychology",
+                "relevance": 0.420045,
+                "dbpedia_resource": "http://dbpedia.org/resource/Developmental_psychology"
+            },
+            {
+                "text": "Economics",
+                "relevance": 0.416925,
+                "dbpedia_resource": "http://dbpedia.org/resource/Economics"
+            }
+        ],
+        "categories": [
+            {
+                "score": 0.429021,
+                "label": "/technology and computing/networking/vpn and remote access"
+            },
+            {
+                "score": 0.277978,
+                "label": "/education/distance learning"
+            },
+            {
+                "score": 0.249475,
+                "label": "/business and industrial"
+            }
+        ],
+        "relations": [
+            {
+                "type": "employedBy",
+                "sentence": "AI/Machine Learning Market 2018: Global Analysis by Key Players - GOOGLE, IBM, BAIDU, PRISMA, IRIS AI, PINTEREST Wiseguyreports.Com Publish New Market Research Report On -\"AI/Machine Learning Market - Global Industry Analysis, Size, Share, Trends, Growth and Forecast 2018 - 2025\" Posted via Industry Today .",
+                "score": 0.582808,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Market",
+                        "location": [
+                            172,
+                            198
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Market Size Growth Rate"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Global Industry Analysis",
+                        "location": [
+                            201,
+                            225
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Global Industry Analysis",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.319088,
+                "arguments": [
+                    {
+                        "text": "Global AI/Machine Learning Market",
+                        "location": [
+                            1179,
+                            1212
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Global AI/Machine Learning Market Concentration Ratio",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Application",
+                        "location": [
+                            1222,
+                            1233
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Application",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "locatedAt",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.46657,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Growth Trends",
+                        "location": [
+                            1303,
+                            1336
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Market Size Growth Rate"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Regions",
+                        "location": [
+                            1340,
+                            1347
+                        ],
+                        "entities": [
+                            {
+                                "type": "Location",
+                                "text": "Regions"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "locatedAt",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.575487,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Market Size",
+                        "location": [
+                            1354,
+                            1385
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Market Size Growth Rate"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Regions",
+                        "location": [
+                            1389,
+                            1396
+                        ],
+                        "entities": [
+                            {
+                                "type": "Location",
+                                "text": "Regions"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "locatedAt",
+                "sentence": "2.2.2 AI/Machine Learning Market Share by Regions (2013-2018) 2.3 Industry Trends 3 Market Share by Key Players 3.1 AI/Machine Learning Market Size by Manufacturers 3.1.1 Global AI/Machine Learning Revenue by Manufacturers (2013-2018) 3.1.2 Global AI/Machine Learning Revenue Market Share by Manufacturers (2013-2018) 3.1.3 Global AI/Machine Learning Market Concentration Ratio (CR5 and HHI) 3.2 AI/Machine Learning Key Players Head office and Area Served 3.3 Key Players AI/Machine Learning Product/Solution/Service 3.4 Date of Enter into AI/Machine Learning Market 3.5 Mergers & Acquisitions, Expansion Plans……12.1.2 Company Description and Business Overview 12.1.3 AI/Machine Learning Introduction 12.1.4 GOOGLE Revenue in AI/Machine Learning Business (2013-2018) 12.1.5 GOOGLE Recent Development 12.2.2 Company Description and Business Overview 12.2.3 AI/Machine Learning Introduction 12.2.4 IBM Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.682081,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Market",
+                        "location": [
+                            1415,
+                            1441
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Market Size Growth Rate"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Regions",
+                        "location": [
+                            1451,
+                            1458
+                        ],
+                        "entities": [
+                            {
+                                "type": "Location",
+                                "text": "Regions"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "employedBy",
+                "sentence": "2.2.2 AI/Machine Learning Market Share by Regions (2013-2018) 2.3 Industry Trends 3 Market Share by Key Players 3.1 AI/Machine Learning Market Size by Manufacturers 3.1.1 Global AI/Machine Learning Revenue by Manufacturers (2013-2018) 3.1.2 Global AI/Machine Learning Revenue Market Share by Manufacturers (2013-2018) 3.1.3 Global AI/Machine Learning Market Concentration Ratio (CR5 and HHI) 3.2 AI/Machine Learning Key Players Head office and Area Served 3.3 Key Players AI/Machine Learning Product/Solution/Service 3.4 Date of Enter into AI/Machine Learning Market 3.5 Mergers & Acquisitions, Expansion Plans……12.1.2 Company Description and Business Overview 12.1.3 AI/Machine Learning Introduction 12.1.4 GOOGLE Revenue in AI/Machine Learning Business (2013-2018) 12.1.5 GOOGLE Recent Development 12.2.2 Company Description and Business Overview 12.2.3 AI/Machine Learning Introduction 12.2.4 IBM Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.441295,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Market Size",
+                        "location": [
+                            1525,
+                            1556
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Market Size Growth Rate"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Manufacturers",
+                        "location": [
+                            1560,
+                            1573
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Manufacturers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "2.2.2 AI/Machine Learning Market Share by Regions (2013-2018) 2.3 Industry Trends 3 Market Share by Key Players 3.1 AI/Machine Learning Market Size by Manufacturers 3.1.1 Global AI/Machine Learning Revenue by Manufacturers (2013-2018) 3.1.2 Global AI/Machine Learning Revenue Market Share by Manufacturers (2013-2018) 3.1.3 Global AI/Machine Learning Market Concentration Ratio (CR5 and HHI) 3.2 AI/Machine Learning Key Players Head office and Area Served 3.3 Key Players AI/Machine Learning Product/Solution/Service 3.4 Date of Enter into AI/Machine Learning Market 3.5 Mergers & Acquisitions, Expansion Plans……12.1.2 Company Description and Business Overview 12.1.3 AI/Machine Learning Introduction 12.1.4 GOOGLE Revenue in AI/Machine Learning Business (2013-2018) 12.1.5 GOOGLE Recent Development 12.2.2 Company Description and Business Overview 12.2.3 AI/Machine Learning Introduction 12.2.4 IBM Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.493438,
+                "arguments": [
+                    {
+                        "text": "Global AI/Machine Learning Revenue",
+                        "location": [
+                            1580,
+                            1614
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Global AI/Machine Learning Market Concentration Ratio",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Manufacturers",
+                        "location": [
+                            1560,
+                            1573
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Manufacturers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "2.2.2 AI/Machine Learning Market Share by Regions (2013-2018) 2.3 Industry Trends 3 Market Share by Key Players 3.1 AI/Machine Learning Market Size by Manufacturers 3.1.1 Global AI/Machine Learning Revenue by Manufacturers (2013-2018) 3.1.2 Global AI/Machine Learning Revenue Market Share by Manufacturers (2013-2018) 3.1.3 Global AI/Machine Learning Market Concentration Ratio (CR5 and HHI) 3.2 AI/Machine Learning Key Players Head office and Area Served 3.3 Key Players AI/Machine Learning Product/Solution/Service 3.4 Date of Enter into AI/Machine Learning Market 3.5 Mergers & Acquisitions, Expansion Plans……12.1.2 Company Description and Business Overview 12.1.3 AI/Machine Learning Introduction 12.1.4 GOOGLE Revenue in AI/Machine Learning Business (2013-2018) 12.1.5 GOOGLE Recent Development 12.2.2 Company Description and Business Overview 12.2.3 AI/Machine Learning Introduction 12.2.4 IBM Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.470854,
+                "arguments": [
+                    {
+                        "text": "Global AI/Machine Learning Revenue",
+                        "location": [
+                            1580,
+                            1614
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Global AI/Machine Learning Market Concentration Ratio",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Manufacturers",
+                        "location": [
+                            1618,
+                            1631
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Manufacturers",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "2.2.2 AI/Machine Learning Market Share by Regions (2013-2018) 2.3 Industry Trends 3 Market Share by Key Players 3.1 AI/Machine Learning Market Size by Manufacturers 3.1.1 Global AI/Machine Learning Revenue by Manufacturers (2013-2018) 3.1.2 Global AI/Machine Learning Revenue Market Share by Manufacturers (2013-2018) 3.1.3 Global AI/Machine Learning Market Concentration Ratio (CR5 and HHI) 3.2 AI/Machine Learning Key Players Head office and Area Served 3.3 Key Players AI/Machine Learning Product/Solution/Service 3.4 Date of Enter into AI/Machine Learning Market 3.5 Mergers & Acquisitions, Expansion Plans……12.1.2 Company Description and Business Overview 12.1.3 AI/Machine Learning Introduction 12.1.4 GOOGLE Revenue in AI/Machine Learning Business (2013-2018) 12.1.5 GOOGLE Recent Development 12.2.2 Company Description and Business Overview 12.2.3 AI/Machine Learning Introduction 12.2.4 IBM Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.557361,
+                "arguments": [
+                    {
+                        "text": "Global AI/Machine Learning Revenue Market",
+                        "location": [
+                            1650,
+                            1691
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Global AI/Machine Learning Market Concentration Ratio",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Manufacturers",
+                        "location": [
+                            1701,
+                            1714
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Manufacturers",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOfMany",
+                "sentence": "2.2.2 AI/Machine Learning Market Share by Regions (2013-2018) 2.3 Industry Trends 3 Market Share by Key Players 3.1 AI/Machine Learning Market Size by Manufacturers 3.1.1 Global AI/Machine Learning Revenue by Manufacturers (2013-2018) 3.1.2 Global AI/Machine Learning Revenue Market Share by Manufacturers (2013-2018) 3.1.3 Global AI/Machine Learning Market Concentration Ratio (CR5 and HHI) 3.2 AI/Machine Learning Key Players Head office and Area Served 3.3 Key Players AI/Machine Learning Product/Solution/Service 3.4 Date of Enter into AI/Machine Learning Market 3.5 Mergers & Acquisitions, Expansion Plans……12.1.2 Company Description and Business Overview 12.1.3 AI/Machine Learning Introduction 12.1.4 GOOGLE Revenue in AI/Machine Learning Business (2013-2018) 12.1.5 GOOGLE Recent Development 12.2.2 Company Description and Business Overview 12.2.3 AI/Machine Learning Introduction 12.2.4 IBM Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.368073,
+                "arguments": [
+                    {
+                        "text": "Head office",
+                        "location": [
+                            1837,
+                            1848
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Key"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Players",
+                        "location": [
+                            1829,
+                            1836
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "players"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "2.2.2 AI/Machine Learning Market Share by Regions (2013-2018) 2.3 Industry Trends 3 Market Share by Key Players 3.1 AI/Machine Learning Market Size by Manufacturers 3.1.1 Global AI/Machine Learning Revenue by Manufacturers (2013-2018) 3.1.2 Global AI/Machine Learning Revenue Market Share by Manufacturers (2013-2018) 3.1.3 Global AI/Machine Learning Market Concentration Ratio (CR5 and HHI) 3.2 AI/Machine Learning Key Players Head office and Area Served 3.3 Key Players AI/Machine Learning Product/Solution/Service 3.4 Date of Enter into AI/Machine Learning Market 3.5 Mergers & Acquisitions, Expansion Plans……12.1.2 Company Description and Business Overview 12.1.3 AI/Machine Learning Introduction 12.1.4 GOOGLE Revenue in AI/Machine Learning Business (2013-2018) 12.1.5 GOOGLE Recent Development 12.2.2 Company Description and Business Overview 12.2.3 AI/Machine Learning Introduction 12.2.4 IBM Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.507447,
+                "arguments": [
+                    {
+                        "text": "GOOGLE Revenue",
+                        "location": [
+                            2117,
+                            2131
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "GOOGLE Revenue",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "AI/Machine Learning Business",
+                        "location": [
+                            2135,
+                            2163
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "AI/Machine Learning Business",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "2.2.2 AI/Machine Learning Market Share by Regions (2013-2018) 2.3 Industry Trends 3 Market Share by Key Players 3.1 AI/Machine Learning Market Size by Manufacturers 3.1.1 Global AI/Machine Learning Revenue by Manufacturers (2013-2018) 3.1.2 Global AI/Machine Learning Revenue Market Share by Manufacturers (2013-2018) 3.1.3 Global AI/Machine Learning Market Concentration Ratio (CR5 and HHI) 3.2 AI/Machine Learning Key Players Head office and Area Served 3.3 Key Players AI/Machine Learning Product/Solution/Service 3.4 Date of Enter into AI/Machine Learning Market 3.5 Mergers & Acquisitions, Expansion Plans……12.1.2 Company Description and Business Overview 12.1.3 AI/Machine Learning Introduction 12.1.4 GOOGLE Revenue in AI/Machine Learning Business (2013-2018) 12.1.5 GOOGLE Recent Development 12.2.2 Company Description and Business Overview 12.2.3 AI/Machine Learning Introduction 12.2.4 IBM Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.325723,
+                "arguments": [
+                    {
+                        "text": "Company",
+                        "location": [
+                            2216,
+                            2223
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "ZEBRA MEDICAL VISION Company"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "GOOGLE",
+                        "location": [
+                            2183,
+                            2189
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "GOOGLE Revenue",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "populationOf",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.125511,
+                "arguments": [
+                    {
+                        "text": "12.3.3",
+                        "location": [
+                            2440,
+                            2446
+                        ],
+                        "entities": [
+                            {
+                                "type": "Cardinal",
+                                "text": "12.3.3"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Business Overview",
+                        "location": [
+                            2422,
+                            2439
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Business Overview",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "timeOf",
+                "sentence": "AI/Machine Learning Market 2018: Global Analysis by Key Players - GOOGLE, IBM, BAIDU, PRISMA, IRIS AI, PINTEREST Wiseguyreports.Com Publish New Market Research Report On -\"AI/Machine Learning Market - Global Industry Analysis, Size, Share, Trends, Growth and Forecast 2018 - 2025\" Posted via Industry Today .",
+                "score": 0.937589,
+                "arguments": [
+                    {
+                        "text": "Today",
+                        "location": [
+                            301,
+                            306
+                        ],
+                        "entities": [
+                            {
+                                "type": "Date",
+                                "text": "Today"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Posted",
+                        "location": [
+                            281,
+                            287
+                        ],
+                        "entities": [
+                            {
+                                "type": "EventCommunication",
+                                "text": "Posted"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "locatedAt",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.581163,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Introduction",
+                        "location": [
+                            2447,
+                            2479
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Introduction"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "BAIDU Revenue",
+                        "location": [
+                            2487,
+                            2500
+                        ],
+                        "entities": [
+                            {
+                                "type": "Facility",
+                                "text": "BAIDU Revenue"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "populationOf",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.15051,
+                "arguments": [
+                    {
+                        "text": "12.4.3",
+                        "location": [
+                            2626,
+                            2632
+                        ],
+                        "entities": [
+                            {
+                                "type": "Cardinal",
+                                "text": "12.4.3"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Business Overview",
+                        "location": [
+                            2608,
+                            2625
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Business Overview",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "locatedAt",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.67738,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Introduction",
+                        "location": [
+                            2633,
+                            2665
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Introduction"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "SOUNDHOUND Revenue",
+                        "location": [
+                            2673,
+                            2691
+                        ],
+                        "entities": [
+                            {
+                                "type": "Facility",
+                                "text": "SOUNDHOUND Revenue"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "populationOf",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.148407,
+                "arguments": [
+                    {
+                        "text": "12.5.3",
+                        "location": [
+                            2866,
+                            2872
+                        ],
+                        "entities": [
+                            {
+                                "type": "Cardinal",
+                                "text": "12.5.3"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Business Overview",
+                        "location": [
+                            2848,
+                            2865
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Business Overview",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.514806,
+                "arguments": [
+                    {
+                        "text": "ZEBRA MEDICAL VISION Revenue",
+                        "location": [
+                            2913,
+                            2941
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "ZEBRA MEDICAL VISION Revenue",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "AI/Machine Learning Business",
+                        "location": [
+                            2945,
+                            2973
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "AI/Machine Learning Business",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.60219,
+                "arguments": [
+                    {
+                        "text": "Company",
+                        "location": [
+                            3052,
+                            3059
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "ZEBRA MEDICAL VISION Company"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "PRISMA",
+                        "location": [
+                            3038,
+                            3044
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "PRISMA Revenue",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.723779,
+                "arguments": [
+                    {
+                        "text": "PRISMA Revenue",
+                        "location": [
+                            3141,
+                            3155
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "PRISMA Revenue",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "AI/Machine Learning Business",
+                        "location": [
+                            3159,
+                            3187
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "AI/Machine Learning Business",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.438819,
+                "arguments": [
+                    {
+                        "text": "Company",
+                        "location": [
+                            3271,
+                            3278
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "ZEBRA MEDICAL VISION Company"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "IRIS AI Company",
+                        "location": [
+                            3240,
+                            3255
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "IRIS AI Company",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "12.2.5 IBM Recent Development 12.3.2 Company Description and Business Overview 12.3.3 AI/Machine Learning Introduction 12.3.4 BAIDU Revenue in AI/Machine Learning Business (2013-2018) 12.3.5 BAIDU Recent Development 12.4.2 Company Description and Business Overview 12.4.3 AI/Machine Learning Introduction 12.4.4 SOUNDHOUND Revenue in AI/Machine Learning Business (2013-2018) 12.4.5 SOUNDHOUND Recent Development 12.5.1 ZEBRA MEDICAL VISION Company Details 12.5.2 Company Description and Business Overview 12.5.3 AI/Machine Learning Introduction 12.5.4 ZEBRA MEDICAL VISION Revenue in AI/Machine Learning Business (2013-2018) 12.5.5 ZEBRA MEDICAL VISION Recent Development 12.6 PRISMA 12.6.2 Company Description and Business Overview 12.6.3 AI/Machine Learning Introduction 12.6.4 PRISMA Revenue in AI/Machine Learning Business (2013-2018) 12.6.5 PRISMA Recent Development 12.7.1 IRIS AI Company Details 12.7.2 Company Description and Business Overview 12.7.3 AI/Machine Learning Introduction 12.7.4 IRIS AI Revenue in AI/Machine Learning Business (2013-2018)",
+                "score": 0.623265,
+                "arguments": [
+                    {
+                        "text": "IRIS AI Revenue",
+                        "location": [
+                            3360,
+                            3375
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "IRIS AI Company",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "AI/Machine Learning Business",
+                        "location": [
+                            3379,
+                            3407
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "AI/Machine Learning Business",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "employedBy",
+                "sentence": "12.7.5 IRIS AI Recent Development 12.8 PINTEREST 12.8.2 Company Description and Business Overview 12.8.3 AI/Machine Learning Introduction 12.8.4 PINTEREST Revenue in AI/Machine Learning Business (2013-2018) 12.8.5 PINTEREST Recent Development",
+                "score": 0.477755,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Introduction",
+                        "location": [
+                            3525,
+                            3557
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Introduction"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "PINTEREST Revenue",
+                        "location": [
+                            3565,
+                            3582
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "PINTEREST Revenue",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "locatedAt",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.418974,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning",
+                        "location": [
+                            543,
+                            562
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Market Size Growth Rate"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "United States",
+                        "location": [
+                            578,
+                            591
+                        ],
+                        "entities": [
+                            {
+                                "type": "GeopoliticalEntity",
+                                "text": "United States",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Country"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "12.7.5 IRIS AI Recent Development 12.8 PINTEREST 12.8.2 Company Description and Business Overview 12.8.3 AI/Machine Learning Introduction 12.8.4 PINTEREST Revenue in AI/Machine Learning Business (2013-2018) 12.8.5 PINTEREST Recent Development",
+                "score": 0.688643,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Business",
+                        "location": [
+                            3586,
+                            3614
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "AI/Machine Learning Business",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "PINTEREST Revenue",
+                        "location": [
+                            3565,
+                            3582
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "PINTEREST Revenue",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "employedBy",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.647673,
+                "arguments": [
+                    {
+                        "text": "players",
+                        "location": [
+                            618,
+                            625
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "players"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "China.The",
+                        "location": [
+                            604,
+                            613
+                        ],
+                        "entities": [
+                            {
+                                "type": "GeopoliticalEntity",
+                                "text": "China.The"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "timeOf",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.892611,
+                "arguments": [
+                    {
+                        "text": "request/3455104",
+                        "location": [
+                            719,
+                            734
+                        ],
+                        "entities": [
+                            {
+                                "type": "Date",
+                                "text": "request/3455104"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Report",
+                        "location": [
+                            672,
+                            678
+                        ],
+                        "entities": [
+                            {
+                                "type": "EventCommunication",
+                                "text": "Report"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "locatedAt",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.698855,
+                "arguments": [
+                    {
+                        "text": "Regions",
+                        "location": [
+                            940,
+                            947
+                        ],
+                        "entities": [
+                            {
+                                "type": "Location",
+                                "text": "Regions"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Countries",
+                        "location": [
+                            948,
+                            957
+                        ],
+                        "entities": [
+                            {
+                                "type": "GeopoliticalEntity",
+                                "text": "Countries",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Country"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "locatedAt",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.650128,
+                "arguments": [
+                    {
+                        "text": "United States",
+                        "location": [
+                            978,
+                            991
+                        ],
+                        "entities": [
+                            {
+                                "type": "GeopoliticalEntity",
+                                "text": "United States",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Country"
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Table of Contents",
+                        "location": [
+                            992,
+                            1009
+                        ],
+                        "entities": [
+                            {
+                                "type": "GeopoliticalEntity",
+                                "text": "Table of Contents"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "partOf",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.836833,
+                "arguments": [
+                    {
+                        "text": "Points1 Report Overview",
+                        "location": [
+                            1027,
+                            1050
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Points1 Report Overview"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Key",
+                        "location": [
+                            1023,
+                            1026
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Key Players AI/Machine Learning Product",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "employedBy",
+                "sentence": "The study objectives are to present the AI/Machine Learning development in United States, Europe and China.The key players covered in this study GOOGLE Request a Sample Report @ https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment by Type, the product can be split into TensorFlow Market segment by Application, split into Automotive Market segment by Regions/Countries, this report covers United States Table of Contents -Analysis of Key Points1 Report Overview 1.4 Market Analysis by Type 1.4.1 Global AI/Machine Learning Market Size Growth Rate by Type (2013-2025) 1.4.2 TensorFlow 1.5.1 Global AI/Machine Learning Market Share by Application (2013-2025) 1.5.2 Automotive 2.1 AI/Machine Learning Market Size 2.2 AI/Machine Learning Growth Trends by Regions 2.2.1 AI/Machine Learning Market Size by Regions (2013-2025)",
+                "score": 0.76974,
+                "arguments": [
+                    {
+                        "text": "AI/Machine Learning Market Size Growth Rate",
+                        "location": [
+                            1092,
+                            1135
+                        ],
+                        "entities": [
+                            {
+                                "type": "Person",
+                                "text": "AI/Machine Learning Market Size Growth Rate"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Global",
+                        "location": [
+                            1085,
+                            1091
+                        ],
+                        "entities": [
+                            {
+                                "type": "Organization",
+                                "text": "Global AI/Machine Learning Market Concentration Ratio",
+                                "disambiguation": {
+                                    "subtype": [
+                                        "Commercial"
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "keywords": [
+            {
+                "text": "AI/Machine Learning",
+                "sentiment": {
+                    "score": 0.440017,
+                    "label": "positive"
+                },
+                "relevance": 0.964033
+            },
+            {
+                "text": "AI/Machine Learning Market",
+                "sentiment": {
+                    "score": 0.440017,
+                    "label": "positive"
+                },
+                "relevance": 0.790954
+            },
+            {
+                "text": "AI/Machine Learning Introduction",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.642622
+            },
+            {
+                "text": "AI/Machine Learning Business",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.625234
+            },
+            {
+                "text": "global ai/machine learning",
+                "sentiment": {
+                    "score": 0.440017,
+                    "label": "positive"
+                },
+                "relevance": 0.624798
+            },
+            {
+                "text": "key players",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.531717
+            },
+            {
+                "text": "Learning Market Size",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.529436
+            },
+            {
+                "text": "Recent Development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.52021
+            },
+            {
+                "text": "Company Description",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.518622
+            },
+            {
+                "text": "Business Overview",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.504358
+            },
+            {
+                "text": "ZEBRA MEDICAL VISION",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.492398
+            },
+            {
+                "text": "AI/Machine Learning Revenue",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.490647
+            },
+            {
+                "text": "IRIS AI",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.460956
+            },
+            {
+                "text": "Learning Market Share",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.460411
+            },
+            {
+                "text": "Learning Revenue Market",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.458374
+            },
+            {
+                "text": "AI/Machine Learning development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.451076
+            },
+            {
+                "text": "AI/Machine Learning Key",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.443974
+            },
+            {
+                "text": "AI/Machine Learning Growth",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.441865
+            },
+            {
+                "text": "Players AI/Machine Learning",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.441262
+            },
+            {
+                "text": "IndustryToday AI/Machine Learning",
+                "sentiment": {
+                    "score": 0.440017,
+                    "label": "positive"
+                },
+                "relevance": 0.441106
+            },
+            {
+                "text": "AI/Machine Learning status",
+                "sentiment": {
+                    "score": 0.440017,
+                    "label": "positive"
+                },
+                "relevance": 0.440797
+            },
+            {
+                "text": "Learning Market Concentration",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.426544
+            },
+            {
+                "text": "IRIS AI Revenue",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.415887
+            },
+            {
+                "text": "Market segment",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.411514
+            },
+            {
+                "text": "MEDICAL VISION Revenue",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.408405
+            },
+            {
+                "text": "Market Research Report",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.408002
+            },
+            {
+                "text": "https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025 Market segment",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.406338
+            },
+            {
+                "text": "TensorFlow Market segment",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.405354
+            },
+            {
+                "text": "Automotive Market segment",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.405166
+            },
+            {
+                "text": "Market Size Growth",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.40422
+            },
+            {
+                "text": "PRISMA Recent Development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.40378
+            },
+            {
+                "text": "Market 2018This report",
+                "sentiment": {
+                    "score": 0.440017,
+                    "label": "positive"
+                },
+                "relevance": 0.402694
+            },
+            {
+                "text": "IRIS AI Company",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.394714
+            },
+            {
+                "text": "Plans……12.1.2 Company Description",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.394542
+            },
+            {
+                "text": "China.The key players",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.394007
+            },
+            {
+                "text": "GOOGLE Recent Development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.393957
+            },
+            {
+                "text": "Global Industry Analysis",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.393068
+            },
+            {
+                "text": "Points1 Report Overview",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.392994
+            },
+            {
+                "text": "AI Recent Development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.392791
+            },
+            {
+                "text": "IBM Recent Development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.392262
+            },
+            {
+                "text": "BAIDU Recent Development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.391745
+            },
+            {
+                "text": "SOUNDHOUND Recent Development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.390727
+            },
+            {
+                "text": "VISION Recent Development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.390496
+            },
+            {
+                "text": "PINTEREST Recent Development",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.389566
+            },
+            {
+                "text": "MEDICAL VISION Company",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.38692
+            },
+            {
+                "text": "PRISMA Revenue",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.385823
+            },
+            {
+                "text": "study GOOGLE Request",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.385652
+            },
+            {
+                "text": "Players Head office",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.38512
+            },
+            {
+                "text": "United States Table",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.383214
+            },
+            {
+                "text": "GOOGLE Revenue",
+                "sentiment": {
+                    "score": 0,
+                    "label": "neutral"
+                },
+                "relevance": 0.375395
+            }
+        ]
+    },
+    "extracted_metadata": {
+        "sha1": "7bb5742560e227e4d812d5fd409f0ede1e291663",
+        "filename": "1539331366151.zip-15e2b9f8f04fb88a0e04ded6322febf3.xml",
+        "file_type": "json"
+    },
+    "external_links": [
+        "https://www.wiseguyreports.com/sample-request/3455104-global-ai-machine-learning-market-size-status-and-forecast-2018-2025",
+        "http://twitter.com/IndustryToday"
+    ],
+    "title": "AI/Machine Learning Market 2018: Global Analysis by Key Players – GOOGLE, IBM, BAIDU, PRISMA, IRIS AI, PINTEREST",
+    "forum_title": "Industry Today"
+}
+
+enriched_title is just a breakdown of the title with associated keywords
+host gives the host of the original article
+source_type sounds interesting but I'm not sure what it means
+enriched_text is just an analysis of how related parts of the text are..
+title is the title of the article.
